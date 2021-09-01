@@ -19,9 +19,3 @@ Your software file will begin with two lists. It will be your job to combine the
   Item m  
   ['Item n', 'Item n-1', 'Item n-2', ..., 'Item 1']
   
-
-# Specification
-
-First, download the project to your local workstation.  I recommend using a source code repository interface such as GitHub Desktop. Start with the template file called list_manipulation.py. Modify the header to include your own information, and update the code to meet the requirements. When you are satisfied with your changes, commit them to the repository.
-
-After your code is committed to your GitHub repository, go to your account on GradeScope and find the assignment called Lab-03 - Lists. Under "Submission Method" select GitHub. You will need to point to the correct repository (called something like joates-223p-spring-2021/lab-03-_your user name_).  You may be asked to link your GitHub account with Gradescope at this time.  Next select the Main branch and press Upload. Gradescope will import your project files from GitHub and automatically grade them.  If you like what you see, you are done.  If not, you can make changes and use the Resumbit button on the bottom right of the Gradescope page to try again.
