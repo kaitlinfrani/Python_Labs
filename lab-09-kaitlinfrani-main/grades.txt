@@ -1,0 +1,13 @@
+Student, Assignment 1, Assignment 2, Assignment 3, Assignment 4, Midterm, Final
+Paul McCartney,2,,,,,,
+John Lennon,2,,,,,,
+George Harrison,2,,,,,,
+Ringo Starr,2,,,,,,
+Robert Plant,2,,,,,,
+Jimmy Page,2,,,,,,
+John Bonham,2,,,,,,
+John Paul Jones,2,,,,,,
+Trey Anastasio,2,,,,,,
+Jon Fishman,2,,,,,,
+Mike Gordon,2,,,,,,
+Page McConnell,2,,,,,,
